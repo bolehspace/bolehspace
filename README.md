@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @bolehspace
-- 👀 I’m interested in data analytics
-- 💞️ I’m looking to collaborate on big data and thick data
-- 📫 How to reach me bolehspace@gmail.com
+- 👋 Hi, we’re @bolehspace
+- 👀 We’re interested in data analytics
+- 💞️ We’re looking to collaborate on disability and accessibility data sets specifically in Malaysia
+- 📫 How to reach us bolehspace@gmail.com
 
 <!---
 bolehspace/bolehspace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
